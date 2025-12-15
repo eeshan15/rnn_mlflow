@@ -1,0 +1,23 @@
+artifact_path: /home/eeshan/eeshan_mlhealth/trash_Projects/rnn_mlflow_dvc_basic/mlruns/1/models/m-a2c25a277af74ed78da229924bce2f66/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.10.12
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.6.0+cu124
+mlflow_version: 3.7.0
+model_id: m-a2c25a277af74ed78da229924bce2f66
+model_size_bytes: 9808
+model_uuid: m-a2c25a277af74ed78da229924bce2f66
+prompts: null
+run_id: 3392f5fc027a4f04a5fede337081d0c4
+utc_time_created: '2025-12-15 10:04:32.027366'
