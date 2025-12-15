@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import os 
 
-T = 20 ; L = 1000 ; N = 100 
+T = 40 ; L = 1000 ; N = 200 
 
 os.makedirs("data" , exist_ok = True)
 
